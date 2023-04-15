@@ -1,0 +1,16 @@
+body{
+background: rgb(249,98,2);
+background: linear-gradient(207deg, rgba(249,98,2,1) 0%, rgba(253,29,116,1) 56%);
+background-repeat:no-repeat;
+background-size: cover;
+ 
+}
+.day{
+  font-style:italic;
+  font-family:monospace;
+  color:#fff;
+  font-size:2cm;
+  height:100vh;
+  text-align:center;
+  padding-top:40vh;
+}
